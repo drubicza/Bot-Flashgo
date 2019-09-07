@@ -1,1 +1,138 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=0750c0a9df53574e3a9dbf886a4ce047e17d8a3a3Vlbb6NGFH6PlF/QF4TyYGsdO042W23StE0bp5sq3USJt2q1WlkDM8CYgRnmYrCr/PdyMRjsBDu2k10tL8BwzjfnMvOdA+xp/+3uaPGh/3F989v59b2+u/Owu/NZj0yDGpSMPP2LdqbpWD/d3dl7ShiGdDLkLBPlSCgia+UdmzGKSOS6mYqpOKlVUCYnxiRknjfBmYqDAES8VikwDEZCH1IC6EypXmUUWMobupzbmYarfOzb9c77BCLlj6fuM+y7S8yCjrKIORyKTEMq7mJRqxORiIWUUYtMY1wr7QkeuHiycqBcJxIWFYbJ5FQJD2miAYFEA4gsECd0ILGHJtRHA4FkQz8XGHT+BC7gEujNOnQaRZRxB7o+z8ANzFVqTzzqQhmkMUgGfhVjIZHX0E2CAK+i5sIxaCK/u1PxqLiYMyC5fchO1SAWMOsAVTyaIv3wuXt69NbL/AoC6oyzvVC/3hil4zCcLhwlsfN8YyrLqWzMu8yYMPKx4zmjNK3w+fjVxVFM8P7Qez5W7m7ZzB/XwCltuTLU8RxUloeyRHeNySqcUAY7SsE4ChTmSNPjzQLazGHPn6HYr1N0JRDfBzby5Yl2EW+wzmG7qzVgfHWCaXN3J31uAwxPtL3kepBc7+5E++kDSV3k50/Sm+LRTCORB0o6lOMJkJjGCr/Few5xbS87JzqAsf0R4iJ93O2+O0gGsT/CEu2bFKIYLLsbJHe5BgOmGxufTmZSr20CjtuMU4+2IRYu9asBytdn5vvnw5b2tqV1Dw4OjlvaYXzqZqfpYDc7HWandy3tSwxmKd9MfNCAIZDf2Msor1lM4dsK+pRixykXgZXT4/iC4LlKlSobWDAG5bgWtTT7FDcWB5yDcaOZy0djPPIUChZmqACVbx6xt2Rzzgzl+ld1KnFmM/RqSZ6i53YTKAzGhtKrNgSLPuWez0KT+D/APpZFeNKRuOhQJgdZ4DazPM/ndM7WNBu/f7q7vrntD+56/U93H/t35x/vL3t32tnPmuQKtbT8eXxKBnVHSnbS6VgECMembQOYoG3SNoYdwHBn1O2AdFF2OAoBh510Lf/io1BcwbMDfYbXv/qrd/Opn2AeHcyGb2/u+4uTJ6OXV73ri/vUhhLMh37/9kPv/CIzuRqhfKEWHudK9/fXg797d1eX/972Sr42m48mq8jqXLZQhMxNc1LqCKfolfSbhAr0cnNwFDdh/oY7ouiCZ5vhoUROEAEyGGEULhLUSt1LQIKxhauNbEYwinMcSV/V0sdTuKPxhNBAPUJvKMACOjACcMkufgradJAXKityHzF6o0gXsXiSUbENLRcbyB1/N5y6EXKR5TqiXS2pgpnEDEfjxRWzjKhnSXl96n2bUi+GZ7rW1jjwYSNpIJKjpb2fHs1XJeXnprC0mzbk8U2JrYb3Cy56KRIvLb9VOHzGYY+TMqE29tcjZMMIQ4s4EnG5hN+epPTQC4SakOEj5LuKvmXQCNP51/zV38aYjRDiaxpPqIXVcP6TT6pujkaTwEaYErVd9i0sfpL3V2IwIoYQTTAdLwv8N1Ye8nxvszBUgrFJF15K+iuxe/Ii2xESSCWWt9PbZOLKzv92ufhb7MFLlPcSLXhOSjUduHAAR4uMH8FQYduEaIEQKJcjhIFyCVtCtNuhi/VIDSiVfIdiX5fRSrGaIynL8JRv+JMhIkta8rLkJoRUZPT1m82jzld60d9Kdp9BZR6X4yFF211yz6C46fwvxVazTfUVvhcQCiD27caMo2LqRA6TY7v4I5dVXjh2oGEhISvjFuXafLhygFlkD07nyngBlsv8pB2fbkj6s3+JFQJ586ZZhkKmQzW9ndufHIIgxBrdPOwP1QhlH58Xudx2THtkAwsF9kJrGxkedkNn5LhrftQwrBBbVsCxF63ZtkM88TwqvEcbdxVCGvcXawHHTYkbuIy/Sg2oL1PlHGy7DZ7Fb5uN8Cx4r/kturKaXqlQJT9rOpeHV/8cf5xcXPa+7wplmKZjY2KIZEsMhf49NuFTzpgT3xtGBvfIxOeY1zlfRGjmzFBQfwBRslDmm6qCPotUJAHP58TWfMkpGTHHVj3LQmb8AhVfcU5T0orLUV1FeNAQEWhRoKWX6sP/
+<?php
+date_default_timezone_set("Asia/Jakarta");
+@system("clear");
+
+$t      = "\n";
+$r      = "\n\n";
+$biru   = "\x1b[1;34m";
+$turkis = "\x1b[1;36m";
+$ijo    = "\x1b[92m";
+$putih  = "\x1b[1;37m";
+$pink   = "\x1b[1;35m";
+$red    = "\x1b[1;31m";
+$kuning = "\x1b[1;33m";
+
+require "data.php";
+
+$header = "user-agent: Dart/2.1 (dart:io)
+user-gaid: $user_gaid
+x-user-token: $user_token
+x-user-id: $user_id
+authorization: Bearer $Bearer
+x-app-version: 1160
+x-invite-code: $invite_code
+x-app-package-id: com.cari.promo.diskon";
+$id = [2, 4, 10005, 20001, 20004, 10001, 10002, 10006, ];
+
+function absen($header)
+{
+    $head   = array();
+    $head[] = $header;
+    $curl   = curl_init();
+
+    curl_setopt_array($curl,
+        array(CURLOPT_RETURNTRANSFER=>true,
+              CURLOPT_URL=>"http://flashgo.baca.co.id/api/v1/action/reward/20001?newsId=0",
+              CURLOPT_TIMEOUT=>30,
+              CURLOPT_POST=>true,
+              CURLOPT_POSTFIELDS=>"",
+              CURLOPT_HTTPHEADER=>$head,
+              CURLOPT_SSL_VERIFYPEER=>true,));
+
+    $result = curl_exec($curl);
+    curl_close($curl);
+    return $result;
+}
+
+function deal_view($header)
+{
+    $head   = array();
+    $head[] = $header;
+    $curl   = curl_init();
+
+    curl_setopt_array($curl,
+        array(CURLOPT_RETURNTRANSFER=>true,
+              CURLOPT_URL=>"http://flashgo.baca.co.id/api/v1/action/reward/20004?newsid=".rand(10000000, 99999999),
+              CURLOPT_TIMEOUT=>30,
+              CURLOPT_POST=>true,
+              CURLOPT_POSTFIELDS=>"",
+              CURLOPT_HTTPHEADER=>$head,
+              CURLOPT_SSL_VERIFYPEER=>true,));
+
+    $result = curl_exec($curl);
+    curl_close($curl);
+    return $result;
+}
+
+function login($header)
+{
+    $head   = array();
+    $head[] = $header;
+    $curl   = curl_init();
+
+    curl_setopt_array($curl,
+        array(CURLOPT_RETURNTRANSFER=>true,
+              CURLOPT_URL=>"http://flashgo.baca.co.id/api/v1/action/user/status",
+              CURLOPT_TIMEOUT=>30,
+              CURLOPT_HTTPHEADER=>$head,
+              CURLOPT_SSL_VERIFYPEER=>true,));
+
+    $result = curl_exec($curl);
+    curl_close($curl);
+    return $result;
+}
+
+function deal_share($header)
+{
+    $head   = array();
+    $head[] = $header;
+    $curl   = curl_init();
+
+    curl_setopt_array($curl,
+        array(CURLOPT_RETURNTRANSFER=>true,
+            CURLOPT_URL=>"http://flashgo.baca.co.id/api/v1/action/reward/20003/?newsId=0",
+            CURLOPT_TIMEOUT=>30,
+            CURLOPT_POST=>true,
+            CURLOPT_POSTFIELDS=>"",
+            CURLOPT_HTTPHEADER=>$head,
+            CURLOPT_SSL_VERIFYPEER=>true,));
+
+    $result = curl_exec($curl);
+    curl_close($curl);
+    return $result;
+}
+
+function loading()
+{
+    for ($i = 0; $i < 5; $i++) {
+        echo ".";
+        sleep(1);
+    }
+}
+
+function invite($header)
+{
+    $head   = array();
+    $head[] = $header;
+    $curl   = curl_init();
+
+    curl_setopt_array($curl,
+        array(CURLOPT_RETURNTRANSFER=>true,
+              CURLOPT_URL=>"http://flashgo.baca.co.id/api/v1/action/code/F2IX5NzDFE",
+              CURLOPT_TIMEOUT=>30,
+              CURLOPT_POST=>true,
+              CURLOPT_POSTFIELDS=>"",
+              CURLOPT_HTTPHEADER=>$head,
+              CURLOPT_SSL_VERIFYPEER=>true,));
+
+    $result = curl_exec($curl);
+    curl_close($curl);
+    $js     = json_decode($result, true);
+
+    if ($js["Effect"]["Error"] == 0) {
+        echo ".";
+    } else {
+        echo ",";
+    }
+}
+?>

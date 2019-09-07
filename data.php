@@ -1,11 +1,11 @@
 <?php
 //###################################//
-/*#*/$user_name="xxxxxxxxxx";
-/*#*/$user_gaid= "xxxxxxxxx";
-/*#*/$user_token="xxxxxxxxxxxxxxx";
-/*#*/$user_id="xxxxxxxxxxxxxxxxxxxxxx";
-/*#*/$invite_code="xxxxxxxxxxxxxx";
-/*#*/$Bearer="xxxxxxxxxxxxxxxxxxxxxxxxxxx";
+/*#*/$user_name   = "xxxxxxxxxx";
+/*#*/$user_gaid   = "xxxxxxxxx";
+/*#*/$user_token  = "xxxxxxxxxxxxxxx";
+/*#*/$user_id     = "xxxxxxxxxxxxxxxxxxxxxx";
+/*#*/$invite_code = "xxxxxxxxxxxxxx";
+/*#*/$Bearer      = "xxxxxxxxxxxxxxxxxxxxxxxxxxx";
 //###################################//
 ?>
 
@@ -16,6 +16,3 @@
 ###########################################
 https://www.youtube.com/channel/UCMNedYnhv9uNPvM0wHVABsw
 ##########################################
-
-
-
